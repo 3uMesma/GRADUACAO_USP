@@ -17,11 +17,11 @@ A qualidade da solução indica o quão próximo o indivíduo está de ser uma r
 **Criar o vetor inicial aleatório:** O(n)  <br />
 **Calcular fitness:** O(n)  <br />
 **Ordenar vetor:** O(n²)(.) e O(n * log(n))(..)  (...) <br />
-**Gerar filhos:** O(n)
+**Gerar filhos:** O(n) <br />
 
-(.) -> pior caso
-(..) -> melhor caso
-(...) -> a probabilidade do pior caso ocorrer é menor que 1/n, pois o resultado da mediana pode nem sequer ser um elemento do vetor. 
+(.) -> pior caso <br />
+(..) -> melhor caso <br />
+(...) -> a probabilidade do pior caso ocorrer é menor que 1/n, pois o resultado da mediana pode nem sequer ser um elemento do vetor <br />
 
 
 ### Observações relevantes
