@@ -1,3 +1,5 @@
+#include "funcoes.h"
+
 //Função que adiciona dinamicamente os usuarios e já adiciona no tamanho dela
 aluno *AdicionarAluno(aluno *alunos,int *qalunos){
     (*qalunos)++;
