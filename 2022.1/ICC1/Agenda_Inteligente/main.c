@@ -1,3 +1,5 @@
+#include "funcoes.h"
+
 int main(){
 	int opcao;
 	int q_alunos = 0;
