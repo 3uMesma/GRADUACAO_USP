@@ -13,6 +13,7 @@ as posições sendo definidas por posição = [0...N-1][0...N-1]. Embora fosse u
 
 A orientação do deslocamento da fila será similar a uma espiral, caminhando da posição (0, 0) até o final da linha, baixando até o final, voltando à esquerda e retornando ao início, conforme a ilustração a seguir:
 
+![astrounata](https://user-images.githubusercontent.com/100383925/210920140-4fdd48c5-7493-42ee-89c9-930e5fb3977c.jpg)
 
 ## Entrada
 Dois parâmetros relativos ao projeto da câmara espacial e à posição de um astronauta qualquer na fila de espera. O primeiro parâmetro é a quantidade de 
@@ -24,5 +25,3 @@ L = N * N. O segundo parâmetro é um número P que representa a quantidade posi
 - Caso seja a vez do astronauta imprime **"O astronauta esta na posicao: %d %d\nPreste atencao, astronauta, chegou a sua vez!\n"**
 - Caso contrário, imprime na tela a posição do astronauta na fila, seguido pelo número de deslocamentos necessários até que chegue a sua vez de sair em
 missão da seguinte forma: **"O astronauta esta na posicao: %d %d\nAinda faltam %d chamadas para a sua vez!\n"**
-
-
