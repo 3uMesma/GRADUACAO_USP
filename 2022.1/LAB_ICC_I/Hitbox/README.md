@@ -2,6 +2,7 @@
 O objetivo do programa é receber da entrada padrão informações relativas a dois retângulos e informar na saída se esses retângulos se intersectam. 
 Se eles se intersectarem, imprimir o retângulo da área de intersecção.
 
+![area](https://user-images.githubusercontent.com/100383925/210907964-f024376b-c097-4f35-b351-fe37998d8ca2.jpg)
 
 ## Entrada
 O programa recebe de entrada a informação de dois triângulos. O formato da entrada são duas linhas, cada uma com os dados de um dos retângulos. 
