@@ -13,3 +13,4 @@ A imagem na tela deverá ser representada por uma matriz do tipo char de ordem M
 matriz.
 
 ## Entrada
+![entradaTV](https://user-images.githubusercontent.com/100383925/211212973-b3e77f8c-3009-4417-9177-b4daf7bd805a.jpg)
