@@ -22,4 +22,5 @@ Fator = 1.75
 ![claro](https://user-images.githubusercontent.com/100383925/211177889-12da7681-d2e2-4db8-a3e4-f5f3800f48b0.jpg)
 
 <br />
+
  ### Inverter horizontalmente ou verticalmente a imagem
