@@ -12,18 +12,18 @@ Por fim, a última entrada é o tipo do inimigo. Esse é o tipo no qual o ataque
 do tipo fornecido como entrada 
 
 ## Exemplo
-Entrada:
-3
-1 2 1
-2 1 0.5
-1 1 2
-2 0
-2 1
-2 2
--1
-2
-Saída:
-O melhor ataque possui indice 2 e dano 4.00
+Entrada:  <br />
+3  <br />
+1 2 1  <br />
+2 1 0.5  <br />
+1 1 2  <br />
+2 0  <br />
+2 1  <br />
+2 2  <br />
+-1  <br />
+2  <br />
+Saída:  <br />
+O melhor ataque possui indice 2 e dano 4.00  <br />
 
 ## Observações
 A tabela com os tipos e fraquezas funciona de maneira muito similar ao que é usada em jogos de verdade, como neste exemplo de Pokémon: 
