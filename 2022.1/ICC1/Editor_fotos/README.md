@@ -12,4 +12,6 @@ A imagem que utilizei para testar o projeto foi a seguinte:
 - Clarear ou escurecer a imagem dado um fator informado pelo usuário <br />
 Fator = 0.25
 ![escuro](https://user-images.githubusercontent.com/100383925/211177168-1ad68849-b6f1-47cc-938a-218fd3c145d2.jpg)
+<br />
 Fator = 1.75
+
