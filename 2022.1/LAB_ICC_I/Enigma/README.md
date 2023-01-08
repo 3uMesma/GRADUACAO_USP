@@ -31,3 +31,6 @@ Por sorte, não é necessário construir fisicamente essa máquina, já que seri
 
 Cada rotor pode ser representado por um vetor, onde o índice é a conexão no lado do teclado e o valor naquele índice representa aconexão com a lâmpada. Imagine o 
 seguinte vetor:
+![rotor](https://user-images.githubusercontent.com/100383925/211208609-5966bde2-9d0a-4636-894e-2edc51009759.jpg)
+
+Aqui estamos considerando que o número 0 representa 'a', 1 'b', e assim por diante. Naquele exemplo com apenas um rotor, teríamos que quando a letra 'a' é pressionada, olhamos rotor[0] que é 1 e portanto a lâmpada acesa seria a de rótulo 'b'. Ou seja, a decodificação da letra 'a', nessa configuração, é a letra 'b'. Em seguida rotacionamos o rotor o que é efetivamente mover todos os valores do vetor uma casa para a esquerda. O próximo estado do rotor seria:
