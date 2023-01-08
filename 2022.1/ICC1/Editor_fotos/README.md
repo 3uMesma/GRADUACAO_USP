@@ -16,8 +16,10 @@ A imagem que utilizei para testar o projeto foi a seguinte:
 Fator = 0.25
 ![escuro](https://user-images.githubusercontent.com/100383925/211177168-1ad68849-b6f1-47cc-938a-218fd3c145d2.jpg)
 <br />
+<br />
 Fator = 1.75
-![claro](https://user-images.githubusercontent.com/100383925/211177718-42fc4890-1689-4275-87f3-e8a89e96f9fe.jpg)
+<br />
+![claro](https://user-images.githubusercontent.com/100383925/211177889-12da7681-d2e2-4db8-a3e4-f5f3800f48b0.jpg)
 
 <br />
- -  Inverter horizontalmente ou horizontalmente a imagem
+ ### Inverter horizontalmente ou verticalmente a imagem
