@@ -12,7 +12,7 @@ Por fim, a última entrada é o tipo do inimigo. Esse é o tipo no qual o ataque
 do tipo fornecido como entrada 
 
 ## Exemplo
-Entrada:  <br />
+**Entrada:**  <br />
 3  <br />
 1 2 1  <br />
 2 1 0.5  <br />
@@ -22,7 +22,7 @@ Entrada:  <br />
 2 2  <br />
 -1  <br />
 2  <br />
-Saída:  <br />
+**Saída:**  <br />
 O melhor ataque possui indice 2 e dano 4.00  <br />
 
 ## Observações
