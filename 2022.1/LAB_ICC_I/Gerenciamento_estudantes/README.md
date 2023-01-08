@@ -10,4 +10,8 @@ Seu programa deve ser capaz de:
 ## Exemplo
 Entrada:
 
+![entrada](https://user-images.githubusercontent.com/100383925/211216440-7bf8375c-0cc3-4897-8c2d-40e3c6bc5631.jpg)
+
 Saída:
+
+![saida](https://user-images.githubusercontent.com/100383925/211216446-5e60c131-0fb7-4ad2-9a81-0342ac811f61.jpg)
