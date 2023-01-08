@@ -40,3 +40,11 @@ Aqui estamos considerando que o número 0 representa 'a', 1 'b', e assim por dia
 
 ## Entrada
 A entrada será fornecida no seguinte formato:
+
+![entrada](https://user-images.githubusercontent.com/100383925/211208821-463e0bc2-acab-4fb7-832e-99c396901013.jpg)
+O formato da entrada será exatamente esse. Uma linha escrito "Rotores:", três linhas com os dados dos rotores, uma linha em branco, uma linha escrito "Mensagem:" e qualquer número de linhas com a mensagem.
+
+**Atenção:** Quando uma letra maiúscula é codificada ela continua maiúscula e o mesmo vale para quando ela é decodificada. Além disso, caracteres que não são do alfabeto não devem ser decodificados. Eles já estão em sua forma final e devem ser impressos desse jeito mesmo.
+
+## Saída
+A saída deve ser a mensagem decodificada.
