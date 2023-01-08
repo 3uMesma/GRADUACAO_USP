@@ -21,3 +21,18 @@ Plínio deverá alertar **Loop infinito** . Caso a esteira chegue em seu devido 
 |  |  Espaço em branco |
 
 Por exemplo, considere a seguinte fábrica:
+![esteira](https://user-images.githubusercontent.com/100383925/211207800-36906ba0-d4aa-407b-b533-da929e14f338.jpg)
+
+O robô dever deixar uma marca pelos lugares que passar, substituindo o caractere naquele lugar da matriz por um '.' Fazendo isso, se o robô encontrar um '.' em seu caminho, sabe que já passou por ali antes e, portanto, há um loop! Há apenas uma exceção. Quando Plínio vê um '#' ele não substitui por '.' pois sabe que pode passar duas vezes pela mesma junção.
+
+## Entrada
+O programa receberá como entrada 32 linhas, cada uma com 64 caracteres mais um para o '\n' que indica o final da linha.
+
+**Atenção:** Cada linha possui caracteres espaçados. Esses caracteres nas colunas de índice ímpar não devem ser considerados.
+
+## Saída
+A saída deve ser a mensagem de Plínio numa linha e em seguida uma impressão da matriz com as marcações feitas pelo robô.
+
+## Observações
+- O caractere imediatamente à direita do começo sempre será uma esteira
+- Se o robô chegar no caractere final, sempre será pela direita
