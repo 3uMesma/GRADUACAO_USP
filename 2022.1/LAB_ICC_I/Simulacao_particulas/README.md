@@ -33,10 +33,11 @@ que poderá mudar sua posição na matriz na hora de aplicar a física.
   e, se essa posição estiver sendo preenchida por água ou ar, a areia troca de lugar com essa partícula adjacente. Isso é como dizer que a areia é mais pesada que 
   água e ar. As posições adjacentes a serem verificadas em ordem são:
 
-  1. Posição imediatamente abaixo.
-  2. Posição à esquerda abaixo.
-  3. Posição à direita abaixo.
+  1. Posição imediatamente abaixo
+  2. Posição à esquerda abaixo
+  3. Posição à direita abaixo
   
+![areaia](https://user-images.githubusercontent.com/100383925/211212670-9f7ff216-4750-4ae1-ab4f-eb7b368e8b4b.jpg)
+- Água: funciona de forma muito parecida com a partícula de areia, com a diferença de que ela só pode trocar de lugar com ar. Além disso ela também verifica a lateral esquerda e depois direita para possíveis lugares para ir.
   
-  
-
+![agua](https://user-images.githubusercontent.com/100383925/211212673-6bb3993c-e0d6-4771-aa61-0366ded52d66.jpg)
