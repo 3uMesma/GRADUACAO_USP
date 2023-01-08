@@ -14,4 +14,6 @@ Fator = 0.25
 ![escuro](https://user-images.githubusercontent.com/100383925/211177168-1ad68849-b6f1-47cc-938a-218fd3c145d2.jpg)
 <br />
 Fator = 1.75
-
+![claro](https://user-images.githubusercontent.com/100383925/211177681-8e8b24ec-d992-4267-8f6a-57b8a14a2121.jpg)
+<br />
+ -  Inverter horizontalmente ou horizontalmente a imagem
