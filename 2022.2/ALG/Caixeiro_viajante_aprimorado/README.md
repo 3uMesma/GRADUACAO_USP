@@ -1,5 +1,5 @@
 # Caixeiro Viajante com Algortimo Genético
-** Grupo:** Amanda Kasat(kasatamanda@gmail.com), Lucas Omati(lucasomati@usp.br), Miguel Prates(miguel.prates@usp.br)
+** Grupo: ** Amanda Kasat(kasatamanda@gmail.com), Lucas Omati(lucasomati@usp.br), Miguel Prates(miguel.prates@usp.br)
 
 Nossa ideia de solução mai eficiente para o PVC consiste em usar o algoritmo Monte Carlo (entitulado no projeto de walker_run2). Seu funcionamento é 
 basicamente o seguinte (considerendo q_walkers = 50, q_shuffles = 20 e q_cidades = 12):
