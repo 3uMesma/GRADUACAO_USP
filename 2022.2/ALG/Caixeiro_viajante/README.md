@@ -56,6 +56,9 @@ O(n). Vale salientar  que nem todas as funções dos quatro arquivos analisados 
 assintótica. Portanto, segue o gráfico do tempo de execução em função do número de cidades, obtido através do procedimento descrito no próximo tópico 
 usando o geogebra classic. 
 
+![grafico](https://user-images.githubusercontent.com/100383925/211402176-5c319d7f-aed1-419e-878a-973782df9a38.jpg)
+
+
 Dessa forma, podemos concluir que a função com maior influência no tempo de execução do código é a função heapPermutation com custo O(n!), complexidade 
 que é comum ao se usar força bruta para resolver o problema, afinal força bruta é o método menos efetivo de solução na grande maioria dos problemas. 
 Sendo assim, é comum, ao tentar resolver o Problema do Caixeiro Viajante, usar outros métodos, como algoritmos genéticos ou outros algoritmos.
