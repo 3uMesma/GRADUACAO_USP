@@ -26,3 +26,4 @@ cidades. O de força bruta, demorou cerca de 7.29 segundos para concluir de 12 c
 tentativas, demorou 0.04 segundos e obteve uma distância de 776 (caminho: 9 5 2 1 11 10 4 6 8 12 7 3 9 ). Observe que, ao colocar os dois algoritmos 
 lado a lado, o novo algoritmo (com a configuração de 500/20) só demora o mesmo tempo que o de força bruta quando o número de cidades passa de 130:
 
+![grafico](https://user-images.githubusercontent.com/100383925/211403385-8adf492d-bc8d-4278-a611-887f2e65a1d5.jpg)
