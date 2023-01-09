@@ -4,3 +4,4 @@ Desenvolva a implementação dos TADs e um programa cliente (main.c) que execute
 - Imprimir as coordenadas do ponto
 - Imprimir as coordenadas do ponto central do círculo e o de seu raio
 - Apagar o ponto e apagar o círculo
+- Determinar se, dado um ponto, ele está dentro, fora ou no raio de uma circunferência
