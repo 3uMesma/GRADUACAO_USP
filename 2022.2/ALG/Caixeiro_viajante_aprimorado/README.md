@@ -1,5 +1,5 @@
 # Caixeiro Viajante com Algortimo Genético
-** Grupo: Amanda Kasat(kasatamanda@gmail.com), Lucas Omati(lucasomati@usp.br), Miguel Prates(miguel.prates@usp.br)
+** Grupo:** Amanda Kasat(kasatamanda@gmail.com), Lucas Omati(lucasomati@usp.br), Miguel Prates(miguel.prates@usp.br)
 
 Nossa ideia de solução mai eficiente para o PVC consiste em usar o algoritmo Monte Carlo (entitulado no projeto de walker_run2). Seu funcionamento é 
 basicamente o seguinte (considerendo q_walkers = 50, q_shuffles = 20 e q_cidades = 12):
@@ -25,3 +25,4 @@ cidades. O de força bruta, demorou cerca de 7.29 segundos para concluir de 12 c
 9 3 7 12 4 6 8 10 11 1 2 5 9), uma distância de 761. Já esse novo algoritmo, com uma configuração que roda 500 walkers ao mesmo tempo e cada um faz 20 
 tentativas, demorou 0.04 segundos e obteve uma distância de 776 (caminho: 9 5 2 1 11 10 4 6 8 12 7 3 9 ). Observe que, ao colocar os dois algoritmos 
 lado a lado, o novo algoritmo (com a configuração de 500/20) só demora o mesmo tempo que o de força bruta quando o número de cidades passa de 130:
+
