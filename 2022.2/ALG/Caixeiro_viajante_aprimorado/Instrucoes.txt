@@ -1,0 +1,13 @@
+Integrantes do grupo:
+Miguel Prates
+Amanda Kasat
+Lucas Omati
+
+
+
+Documentação, explicação básica etc:
+https://docs.google.com/document/d/1AmvCsPsuHvUniaob26UqUa226tZrRn9RxnG6PRBF8DQ/edit?usp=sharing
+
+
+Como usar o main_teste:
+https://docs.google.com/document/d/1H9l0eU9HPTbyvNtENTSGsw7uRW1pDC7Y8whaqj5eC4U/edit?usp=sharing
