@@ -42,7 +42,7 @@ constante “a” para operações aritméticas e “c” para comparações, se
 
 2. Operações Específicas:
 - Buscar elemento no conjunto:
-  - **Recorrência:** log(n) * 4c = 4log(n)
+  	- **Recorrência:** log(n) * 4c = 4log(n)
 	- **Complexidade:** O(log(n))
 	- **Tipo:** logarítmica
 - União entre dois conjuntos:
