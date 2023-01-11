@@ -1,5 +1,5 @@
 # Laboratório de Introdução à Ciência da Computação II
-*Professor:** 
+**Professor:** Diego Furtado Silva 
 
 Implementar e experimentar em laboratório as técnicas e os algoritmos introduzidos aos alunos nas disciplinas de programação cursadas em conjunto. 
 Preparar o aluno para registro de medidas em algoritmos para confecção de relatórios sobre experimentos realizados com os algoritmos implementados 
