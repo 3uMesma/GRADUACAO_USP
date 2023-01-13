@@ -9,3 +9,7 @@ implementar as duas versões para Mário Junior mostrar a diferença de tempo de
 O trabalho completo deve conter duas implementações do heapsort e um relatório. As versões deverão corresponder aàs duas versões comentadas no
 parágrafo anterior. A corretude da sua implementação se dará pela submissão da versão com melhor tempo de execução ao run.codes. O relatório deve conter um
 print das outra versão e uma avaliação comparativa de tempo de execução entre elas
+
+## Análise Complexidade
+- HeapSort:
+  - Todos os casos: O(n*logn)
