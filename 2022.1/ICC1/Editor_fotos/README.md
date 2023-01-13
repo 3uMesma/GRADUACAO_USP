@@ -30,3 +30,7 @@ Fator = 1.75
 ### Rotacionar para a direita ou a esquerda
 ![direita](https://user-images.githubusercontent.com/100383925/212217908-31621cee-f116-4185-966d-01bfb8742531.jpg)
 ![esquerda](https://user-images.githubusercontent.com/100383925/212217911-af205ab4-018b-4126-b7ad-839b177b8e0d.jpg)
+
+### Redimensionar a imagem dado uma porcentagem
+![menor](https://user-images.githubusercontent.com/100383925/212218457-7d5a2890-5d00-4ada-ac44-6e98b5d0c8b0.jpg)
+![maior](https://user-images.githubusercontent.com/100383925/212218455-f21537bf-6699-4aee-8c3d-3367d108b972.jpg)
