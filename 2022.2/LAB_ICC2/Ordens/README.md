@@ -18,3 +18,22 @@ tão rico). A seguir, são apresentadas n triplas (c, l, g), representando a cor
 ## Saída
 o índice do brinquedo (ordem em que foi apresentado na entrada, iniciando-se com 0) após a ordenação. Cada índice deve apresentar um “;” ao final. No fim da linha, 
 imprima um “\n”.
+
+## Análise Complexidade
+- Bubble Sort:
+  - Pior caso: O(n²)
+  - Caso médio: O(n²)
+  - Melhor caso: O(n)
+
+- Insertion Sort:
+  - Pior caso: O(n²)
+  - Caso médio: O(n²)
+  - Melhor caso: O(n)
+
+- Merge Sort:
+  - Todos os casos: O(n*log n)
+ 
+- Quick Sort:
+  - Pior caso: O(n²)
+  - Caso médio: O(n*log n)
+  - Melhor caso: O(n*log n)
