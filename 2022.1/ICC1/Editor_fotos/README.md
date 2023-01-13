@@ -24,3 +24,9 @@ Fator = 1.75
 <br />
 
  ### Inverter horizontalmente ou verticalmente a imagem
+ ![inv_vert](https://user-images.githubusercontent.com/100383925/212217913-27f90b48-51ed-4299-86e4-434cbfaf58f0.jpg)
+![inv_hori](https://user-images.githubusercontent.com/100383925/212217915-fd1ecf78-75a2-4408-b0e8-a9ac04185385.jpg)
+
+### Rotacionar para a direita ou a esquerda
+![direita](https://user-images.githubusercontent.com/100383925/212217908-31621cee-f116-4185-966d-01bfb8742531.jpg)
+![esquerda](https://user-images.githubusercontent.com/100383925/212217911-af205ab4-018b-4126-b7ad-839b177b8e0d.jpg)
