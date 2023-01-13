@@ -1,4 +1,4 @@
-#include <iomanip> // pra q serve isso?
+#include <iomanip>
 #include <iostream>
 using namespace std;
 
