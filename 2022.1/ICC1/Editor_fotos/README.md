@@ -12,16 +12,9 @@ A imagem que utilizei para testar o projeto foi a seguinte:
 ![fotoefeitos com_ (3)](https://user-images.githubusercontent.com/100383925/211177807-e7baf259-604d-4ab2-9f89-e0ae56143636.jpg)
 
 ## Funções
-### Clarear ou escurecer a imagem dado um fator informado pelo usuário <br />
-Fator = 0.25
+### Clarear ou escurecer a imagem dado um fator informado pelo usuário
 ![escuro](https://user-images.githubusercontent.com/100383925/211177960-01b904cb-dbc5-491d-8042-8808f7aecf8e.jpg)
-<br />
-<br />
-Fator = 1.75
-<br />
 ![claro](https://user-images.githubusercontent.com/100383925/211177889-12da7681-d2e2-4db8-a3e4-f5f3800f48b0.jpg)
-
-<br />
 
  ### Inverter horizontalmente ou verticalmente a imagem
  ![inv_vert](https://user-images.githubusercontent.com/100383925/212217913-27f90b48-51ed-4299-86e4-434cbfaf58f0.jpg)
