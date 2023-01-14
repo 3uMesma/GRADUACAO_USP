@@ -1,5 +1,5 @@
 # Introdução à Ciência de Computação II
-** Professor:** Fernando Pereira dos Santos
+**Professor:** Fernando Pereira dos Santos
 
 ## Programa
 Análise de algoritmos: conceitos básicos, critérios de complexidade de tempo e espaço, notação assintótica, análise de pior caso, melhor caso e caso 
