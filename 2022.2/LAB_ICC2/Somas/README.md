@@ -16,3 +16,8 @@ representando o número de consultas a serem feitas. A cada uma das próximas M 
 ## Saída
 Para cada uma das consultas, seu programa deverá imprimir ‘S’ caso seja possível encontrar a 2-sum de valor k no vetor A fornecidos na entrada. Caso
 contrário, deve-se imprimir ‘N’.
+
+## Análise Complexidade
+- Busca Linear: O(n)
+- Busca Ordenada: O(n)
+- Busca Hash Table: O(1), praticamente independente do número de chaves armazenadas na tabela
